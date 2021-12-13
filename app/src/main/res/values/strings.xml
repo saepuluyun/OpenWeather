@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Open Weather</string>
+    <string name="text_detail">Detail</string>
+    <string name="text_error">Error</string>
+    <string name="text_server_error">Server Error</string>
+    <string name="text_humidity">Humidity : </string>
+    <string name="text_pressure">Pressure : </string>
+    <string name="text_wind">Wind : </string>
+    <string name="text_location">Location : </string>
+    <string name="text_click_back_again">Please click BACK again to exit</string>
+</resources>
